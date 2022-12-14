@@ -1,10 +1,10 @@
 # drf-api-permissions-postgres
 
-# LAB - Class 23
+# LAB - Class 26
 ## Project: snacks_crud_project
 ### Author: AbdallahMosa
 
-### [PR1](https://github.com/AbdallahMosa/drf-api/pull/1)
+### [PR1](https://github.com/AbdallahMosa/drf-api-permissions-postg)
 
 ##  create django aproject
 - ```django-admin startproject project-name . ```
